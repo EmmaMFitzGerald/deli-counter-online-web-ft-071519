@@ -6,6 +6,6 @@ def line(katz_deli)
     puts "Welcome, #{name}. You are number #{index + 1} in line."
     end
   elsif katz_deli.length == 0
-    puts "The line is currently empty"
+    puts "The line is currently empty."
   end
 end
